@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024">
+  <rect x="0" y="0" width="100%" height="100%" fill="#87ceeb" /> <!-- Sky -->
+  <circle cx="384" cy="512" r="200" fill="#008000" /> <!-- Earth -->
+
+  <!-- Earth Holes -->
+  <circle cx="300" cy="400" r="30" fill="#87ceeb" />
+  <circle cx="250" cy="550" r="20" fill="#87ceeb" />
+  <circle cx="400" cy="450" r="25" fill="#87ceeb" />
+  <circle cx="500" cy="600" r="35" fill="#87ceeb" />
+  <circle cx="600" cy="400" r="15" fill="#87ceeb" />
+  <circle cx="700" cy="500" r="28" fill="#87ceeb" />
+</svg>
